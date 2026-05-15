@@ -59,3 +59,4 @@ https://github.com/2023-Reshma/KavyaKanaja-App
 
 ### Poet's Corner
 ![Poet's Corner](screenshots/poets_corner.png.png)
+Made with ❤️ to preserve Kannada literature for future generations.
