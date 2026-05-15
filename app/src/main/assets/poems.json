@@ -1,0 +1,470 @@
+[
+  {
+    "title": "Nature's Beauty",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಹೆಮ್ಮೆ",
+    "wordMeaning": "Pride"
+  },
+  {
+    "title": "Morning Dreams",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಕನಸು",
+    "wordMeaning": "Dream"
+  },
+  {
+    "title": "Voice of Karnataka",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನಾಡು",
+    "wordMeaning": "Land"
+  },
+  {
+    "title": "Rainy Memories",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನದಿ",
+    "wordMeaning": "River"
+  },
+  {
+    "title": "Golden Sunrise",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಬೆಳಕು",
+    "wordMeaning": "Light"
+  },
+  {
+    "title": "Whispering Wind",
+    "poet": "B. M. Srikantaiah",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಜ್ಞಾನ",
+    "wordMeaning": "Knowledge"
+  },
+  {
+    "title": "Fragrant Earth",
+    "poet": "D. V. Gundappa",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಸ್ನೇಹ",
+    "wordMeaning": "Friendship"
+  },
+  {
+    "title": "River Song",
+    "poet": "Panje Mangesha Rao",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಆಶೆ",
+    "wordMeaning": "Hope"
+  },
+  {
+    "title": "Moonlit Night",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಧೈರ್ಯ",
+    "wordMeaning": "Courage"
+  },
+  {
+    "title": "Temple Bells",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಶಾಂತಿ",
+    "wordMeaning": "Peace"
+  },
+  {
+    "title": "Mother's Love",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಪ್ರೀತಿ",
+    "wordMeaning": "Love"
+  },
+  {
+    "title": "Farmer's Hope",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಮಣ್ಣು",
+    "wordMeaning": "Soil"
+  },
+  {
+    "title": "School Days",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಹೆಮ್ಮೆ",
+    "wordMeaning": "Pride"
+  },
+  {
+    "title": "Friendship Light",
+    "poet": "B. M. Srikantaiah",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಕನಸು",
+    "wordMeaning": "Dream"
+  },
+  {
+    "title": "Festival Joy",
+    "poet": "D. V. Gundappa",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನಾಡು",
+    "wordMeaning": "Land"
+  },
+  {
+    "title": "Courage Within",
+    "poet": "Panje Mangesha Rao",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನದಿ",
+    "wordMeaning": "River"
+  },
+  {
+    "title": "Silent Forest",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಬೆಳಕು",
+    "wordMeaning": "Light"
+  },
+  {
+    "title": "Cloud Journey",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಜ್ಞಾನ",
+    "wordMeaning": "Knowledge"
+  },
+  {
+    "title": "Village Path",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಸ್ನೇಹ",
+    "wordMeaning": "Friendship"
+  },
+  {
+    "title": "Mountain Echo",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಆಶೆ",
+    "wordMeaning": "Hope"
+  },
+  {
+    "title": "Lotus Bloom",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಧೈರ್ಯ",
+    "wordMeaning": "Courage"
+  },
+  {
+    "title": "Bird's Melody",
+    "poet": "B. M. Srikantaiah",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಶಾಂತಿ",
+    "wordMeaning": "Peace"
+  },
+  {
+    "title": "Starry Sky",
+    "poet": "D. V. Gundappa",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಪ್ರೀತಿ",
+    "wordMeaning": "Love"
+  },
+  {
+    "title": "Ocean Rhythm",
+    "poet": "Panje Mangesha Rao",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಮಣ್ಣು",
+    "wordMeaning": "Soil"
+  },
+  {
+    "title": "Peaceful Mind",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಹೆಮ್ಮೆ",
+    "wordMeaning": "Pride"
+  },
+  {
+    "title": "Hopeful Heart",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಕನಸು",
+    "wordMeaning": "Dream"
+  },
+  {
+    "title": "Wisdom Lamp",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನಾಡು",
+    "wordMeaning": "Land"
+  },
+  {
+    "title": "Patriotic Spirit",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನದಿ",
+    "wordMeaning": "River"
+  },
+  {
+    "title": "Kannada Pride",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಬೆಳಕು",
+    "wordMeaning": "Light"
+  },
+  {
+    "title": "Autumn Leaves",
+    "poet": "B. M. Srikantaiah",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಜ್ಞಾನ",
+    "wordMeaning": "Knowledge"
+  },
+  {
+    "title": "Spring Smile",
+    "poet": "D. V. Gundappa",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಸ್ನೇಹ",
+    "wordMeaning": "Friendship"
+  },
+  {
+    "title": "Dreaming Child",
+    "poet": "Panje Mangesha Rao",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಆಶೆ",
+    "wordMeaning": "Hope"
+  },
+  {
+    "title": "Sacred Soil",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಧೈರ್ಯ",
+    "wordMeaning": "Courage"
+  },
+  {
+    "title": "Unity Song",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಶಾಂತಿ",
+    "wordMeaning": "Peace"
+  },
+  {
+    "title": "Life Lesson",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಪ್ರೀತಿ",
+    "wordMeaning": "Love"
+  },
+  {
+    "title": "Prayer Dawn",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಮಣ್ಣು",
+    "wordMeaning": "Soil"
+  },
+  {
+    "title": "Harvest Dance",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಹೆಮ್ಮೆ",
+    "wordMeaning": "Pride"
+  },
+  {
+    "title": "Lamp of Knowledge",
+    "poet": "B. M. Srikantaiah",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಕನಸು",
+    "wordMeaning": "Dream"
+  },
+  {
+    "title": "Grandmother's Tale",
+    "poet": "D. V. Gundappa",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನಾಡು",
+    "wordMeaning": "Land"
+  },
+  {
+    "title": "Compassion",
+    "poet": "Panje Mangesha Rao",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನದಿ",
+    "wordMeaning": "River"
+  },
+  {
+    "title": "Truth and Light",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಬೆಳಕು",
+    "wordMeaning": "Light"
+  },
+  {
+    "title": "Journey Forward",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಜ್ಞಾನ",
+    "wordMeaning": "Knowledge"
+  },
+  {
+    "title": "Rain on Fields",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಸ್ನೇಹ",
+    "wordMeaning": "Friendship"
+  },
+  {
+    "title": "Butterfly Wings",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಆಶೆ",
+    "wordMeaning": "Hope"
+  },
+  {
+    "title": "River to Sea",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಧೈರ್ಯ",
+    "wordMeaning": "Courage"
+  },
+  {
+    "title": "Sun and Shadow",
+    "poet": "B. M. Srikantaiah",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಶಾಂತಿ",
+    "wordMeaning": "Peace"
+  },
+  {
+    "title": "Joyful Steps",
+    "poet": "D. V. Gundappa",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಪ್ರೀತಿ",
+    "wordMeaning": "Love"
+  },
+  {
+    "title": "Time's Message",
+    "poet": "Panje Mangesha Rao",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಮಣ್ಣು",
+    "wordMeaning": "Soil"
+  },
+  {
+    "title": "Garden of Words",
+    "poet": "Kuvempu",
+    "kannadaText": "ಬೆಳಗಿನ ಕಿರಣವು ಮನ ತಟ್ಟಿತು,\nಹೂಗಳ ನಗು ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು,\nನಾಡಿನ ಮಣ್ಣು ಸುಗಂಧವಾಯಿತು,\nಜೀವನ ಹೊಸ ಆಶೆಯಿಂದ ತುಂಬಿತು.",
+    "englishMeaning": "Morning light touches the heart, flowers smile in the breeze, and life fills with fresh hope.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಹೆಮ್ಮೆ",
+    "wordMeaning": "Pride"
+  },
+  {
+    "title": "Song of Humanity",
+    "poet": "Da. Ra. Bendre",
+    "kannadaText": "ಮಳೆಯ ಹನಿಗಳು ಹಾಡು ಹಾಡಿದವು,\nಮರದ ಎಲೆಗಳು ನೃತ್ಯ ಮಾಡಿದವು,\nಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ ಮನ ನೆಮ್ಮದಿಯಾಯಿತು,\nಕನಸುಗಳಿಗೆ ಹೊಸ ರೆಕ್ಕೆಗಳು ಬಂದವು.",
+    "englishMeaning": "Raindrops sing, leaves dance, and dreams grow wings in the lap of nature.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ಕನಸು",
+    "wordMeaning": "Dream"
+  },
+  {
+    "title": "New Beginnings",
+    "poet": "K. S. Narasimhaswamy",
+    "kannadaText": "ನದಿಯ ಹರಿವು ಕಥೆ ಹೇಳಿತು,\nಗಾಳಿ ಮೃದುವಾಗಿ ಸ್ಪರ್ಶಿಸಿತು,\nಹೃದಯದಲ್ಲಿ ಬೆಳಕು ಮೂಡಿತು,\nನಾಳೆಯ ದಾರಿ ಸ್ಪಷ್ಟವಾಯಿತು.",
+    "englishMeaning": "The river tells stories, the wind brings peace, and tomorrow becomes clearer.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನಾಡು",
+    "wordMeaning": "Land"
+  },
+  {
+    "title": "Inner Strength",
+    "poet": "Masti Venkatesha Iyengar",
+    "kannadaText": "ಕನ್ನಡ ನುಡಿ ನಮ್ಮ ಹೆಮ್ಮೆ,\nಸಂಸ್ಕೃತಿ ನಮ್ಮ ಅಮೂಲ್ಯ ಸಂಪತ್ತು,\nಪದಗಳಲ್ಲಿ ಪ್ರೀತಿ ಅರಳುತ್ತದೆ,\nಕಾವ್ಯದಲ್ಲಿ ಆತ್ಮ ಜೀವಿಸುತ್ತದೆ.",
+    "englishMeaning": "Kannada is our pride; poetry keeps culture and emotion alive.",
+    "audioFile": "poem_audio",
+    "difficultWord": "ನದಿ",
+    "wordMeaning": "River"
+  }
+]
