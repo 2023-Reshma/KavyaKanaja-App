@@ -43,3 +43,19 @@ https://github.com/2023-Reshma/KavyaKanaja-App
 - Share poem
 - Text-to-speech
 - Dark mode
+- ## Screenshots
+
+### Splash Screen
+![Splash Screen](screenshots/splash.png)
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Poem Collection
+![Poem Collection](screenshots/poem_collection.png)
+
+### Full Poem Screen
+![Full Poem Screen](screenshots/full_poem.png)
+
+### Poet's Corner
+![Poet's Corner](screenshots/poets_corner.png)
