@@ -46,16 +46,16 @@ https://github.com/2023-Reshma/KavyaKanaja-App
 - ## Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/splash.png)
+![Splash Screen](screenshots/splash.png.png)
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.png.png)
 
 ### Poem Collection
-![Poem Collection](screenshots/poem_collection.png)
+![Poem Collection](screenshots/poem_collection.png.png)
 
 ### Full Poem Screen
-![Full Poem Screen](screenshots/full_poem.png)
+![Full Poem Screen](screenshots/full_poem.png.png)
 
 ### Poet's Corner
-![Poet's Corner](screenshots/poets_corner.png)
+![Poet's Corner](screenshots/poets_corner.png.png)
